@@ -7,7 +7,7 @@ function App() {
   return (
     <BrowserRouter>
     <div class="grid-container">
-    <header class="row top">
+    <header class="row top" id="stay">
       <div>
         <a class="brand" href="index.html">amazona</a>
       </div>

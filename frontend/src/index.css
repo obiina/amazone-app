@@ -99,6 +99,10 @@ a.brand {
 .row.top{
   align-items: flex-start;
 }
+
+#stay{
+  align-items: center;
+}
 .col-1{
   flex: 1 1 25rem;
 }
